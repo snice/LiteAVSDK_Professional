@@ -1,5 +1,5 @@
 jdk:
   - openjdk17
 install:
-  - FILE="-Dfile=LiteAVSDK_Professional_13.3.0.24002.aar"
-  - mvn install:install-file $FILE -DgroupId=com.tencent.liteav -DartifactId=LiteAVSDK_Professional -Dversion=13.3.0.24002 -Dpackaging=aar -DpomFile=LiteAVSDK_Professional_13.3.0.24002.pom
+  - FILE="-Dfile=LiteAVSDK_Professional-13.3.0.20247.aar"
+  - mvn install:install-file $FILE -DgroupId=com.tencent.liteav -DartifactId=LiteAVSDK_Professional -Dversion=13.3.0.20247 -Dpackaging=aar -DpomFile=LiteAVSDK_Professional-13.3.0.20247.pom
