@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tencent.liteav</groupId>
   <artifactId>LiteAVSDK_Professional</artifactId>
-  <version>13.3.0.20247</version>
+  <version>13.6.0.20732</version>
   <packaging>aar</packaging>
   <name>LiteAVSDK_Professional</name>
   <description>Tencent LiteAVSDK Professional edition for Android (no transitive dependencies).</description>
